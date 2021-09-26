@@ -1,0 +1,52 @@
+
+﻿img {
+    width: 5%;
+    height: 5%;
+    float:none;
+    border-radius:50%;
+}
+.top{
+    min-width: 70%;
+    height: 400px;
+}
+.first{
+     width: 100%;
+     margin: auto;
+     
+
+}
+body {
+    background-color: lightgrey;
+    background-repeat: no-repeat;
+    background-size: 100% 350%;
+}
+.paragraph{
+    opacity: 0.4;
+    
+}
+#eifel{
+    color:forestgreen;
+}
+#strong{
+    color:deeppink;
+}
+
+#triomphe{
+    color:blueviolet;
+}
+
+#lavender{
+    color:brown;
+}
+#vineyard{
+    color:green;
+}
+#last{
+    color:orangered;
+}
+content{
+    float: left;
+}
+footer{
+    color:darkblue;
+}
